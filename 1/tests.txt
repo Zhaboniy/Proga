@@ -1,0 +1,4 @@
+scripts/gcd.py (15,25) (5)
+scripts/wrong_gcd.py (15,25) (5)
+scripts/error_gcd.py (15,25) (5)
+scripts/infinite_loop.py (15,25) (5)
